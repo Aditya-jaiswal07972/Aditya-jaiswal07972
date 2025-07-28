@@ -5,7 +5,7 @@
 ![jaiswal-aditya-14's Stats](https://github-readme-stats.vercel.app/api?username=Aditya-jaiswal07972&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) ![jaiswal-aditya-14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-jaiswal07972&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) 
 
 ## 💡 Quote:
-"The best way to predict the future is to invent it." << Alan Kay 
+"The best way to predict the future is to BUILD it." << Alan Kay 
 
 ## 📫 How to Connect with me:
 - **Email:** [adityajaiswal1409@gmail.com](mailto:adityajaiswal1409@gmail.com)  
